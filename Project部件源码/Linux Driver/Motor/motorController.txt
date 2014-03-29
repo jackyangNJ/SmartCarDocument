@@ -1,0 +1,10 @@
+In this peripheral£¬there are 4 32-bits registers implementing the function of controlling the motors' speed and direction.
+For each register,the 31st bit represents enabling bit,and the 30th bit as direction bit.
+
+Correspondence table like below:
+
+ BASEADDR + 0x0     Motor0
+ BASEADDR + 0x4     Motor1
+ BASEADDR + 0x8     Motor2
+ BASEADDR + 0xC     Motor3
+

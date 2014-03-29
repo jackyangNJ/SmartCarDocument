@@ -1,0 +1,1 @@
+cmd_/home/jack/Desktop/Motor/mydriver.ko := arm-none-linux-gnueabi-ld -EL -r  -T /home/jack/Desktop/linux-xlnx-master/scripts/module-common.lds --build-id  -o /home/jack/Desktop/Motor/mydriver.ko /home/jack/Desktop/Motor/mydriver.o /home/jack/Desktop/Motor/mydriver.mod.o
