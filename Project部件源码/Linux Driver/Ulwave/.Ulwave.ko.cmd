@@ -1,1 +1,0 @@
-cmd_/home/jack/Desktop/project/Ulwave/Ulwave.ko := arm-none-linux-gnueabi-ld -EL -r  -T /home/jack/Desktop/linux-xlnx-old/scripts/module-common.lds --build-id  -o /home/jack/Desktop/project/Ulwave/Ulwave.ko /home/jack/Desktop/project/Ulwave/Ulwave.o /home/jack/Desktop/project/Ulwave/Ulwave.mod.o
